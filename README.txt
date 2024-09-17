@@ -24,7 +24,9 @@ new dashboard from import, use the file in this repo
 
 ----
 
-start the test, update the values in src/main.rs if necessary
+update the values in src/main.rs
+- add the domain for pelias
+
 
 install rust if not already:
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
